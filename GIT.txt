@@ -1,0 +1,5 @@
+git clone https://github.com/s17118/cwiczenia2.git
+git status
+git add cw2.sln
+git commit -m "rozwiazanie cw2"
+git push -u origin master
